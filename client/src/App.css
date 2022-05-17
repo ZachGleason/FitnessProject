@@ -1,0 +1,42 @@
+#text1 {
+  font-family: 'Koulen', cursive;
+}
+#text2 {
+  font-family: 'Koulen', cursive;
+}
+#text3 {
+  font-family: 'Koulen', cursive;
+}
+.pic {
+  position: static;
+  margin-left: 950px;
+  margin-top: -300px;
+}
+.button {
+  background-color: rgb(119, 69, 69);
+}
+.register {
+  text-decoration: none;
+}
+.login {
+  text-decoration: none;
+}
+.menu-item {
+  margin-bottom: 10px;
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.menu-item-two {
+  margin-bottom: 10px;
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.App {
+  background-color: #2E3B60;
+  height: 100px;
+}
+.box {
+  overflow-x: none;
+  overflow-x: none;
+  white-space: nowrap;
+}
